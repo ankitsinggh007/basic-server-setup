@@ -68,8 +68,26 @@ This repository provides a basic server setup with user management functionality
 
 ## How to Use
 
-1. **Clone the Repository:**
+### Prerequisites
 
+1. **Node.js** and **npm**: Make sure you have Node.js and npm installed on your machine.
+2. **MongoDB**: Ensure you have MongoDB running locally or have access to a MongoDB cloud instance.
+
+### Installation
+
+1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/repo-name.git
-   cd repo-name
+   git clone <YOUR_REPOSITORY_URL>
+
+2. Navigate to the Project Directory:**
+   ```bash
+   cd <YOUR_PROJECT_DIRECTORY>
+Replace <YOUR_PROJECT_DIRECTORY> with the directory name where you cloned the repository.
+
+3.Install Dependencies:**
+```bash
+npm install 
+
+
+
+   
